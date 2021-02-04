@@ -1,5 +1,12 @@
 #include<iostream>
 using namespace std;
+
+/*Single Linked List
+Some operations we will perform here.
+1. Traversing
+2. 
+*/
+
 class SinglyLinkedList
 {
     public:
