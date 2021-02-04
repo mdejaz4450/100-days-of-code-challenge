@@ -37,7 +37,7 @@ int main(){
     third = new SinglyLinkedList();
 
 
-    //Dynamic Memory allocation C using malloc.
+    //Dynamic Memory allocation in C language using malloc function.
    // third = (SinglyLinkedList *)malloc(sizeof(SinglyLinkedList*));
 
    head->data = 8;
