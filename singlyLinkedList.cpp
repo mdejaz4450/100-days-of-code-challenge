@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-class SinglyLinkedList{
+class SinglyLinkedList
+{
     public:
     int data;
     SinglyLinkedList* Next; // Next refrence of node of class type.    
