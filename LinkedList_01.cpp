@@ -6,7 +6,6 @@ using namespace std;
 1. Insert Node at first place
 2. Insert Node at End.
 3. Insert Node between any node.
-
 */
 
 struct Node
