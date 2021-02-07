@@ -2,6 +2,13 @@
 #include <stdlib.h>
 using namespace std;
 
+/* SINGLY LINKED LIST INSERTION OPERATION :
+1. Insert Node at first place
+2. Insert Node at End.
+3. Insert Node between any node.
+
+*/
+
 struct Node
 {
     int data;
